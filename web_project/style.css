@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #f4f4f9;
+}
+h2 {
+    text-align: center;
+}
+.book-form input, .book-form button {
+    padding: 8px;
+    margin: 5px;
+}
+#search {
+    display: block;
+    margin: 15px auto;
+    padding: 8px;
+    width: 50%;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 90%;
+    background: white;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
